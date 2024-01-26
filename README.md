@@ -20,8 +20,10 @@ This Python script generates a random password based on user input for the numbe
 - shuffled_password: Concatenation of the shuffled characters to form the final password.
 
 Example
+
 ```bash
-Welcome to the PyPassword Generator!
+Welcome to the Password Generator!
+
 How many letters would you like in your password?
 8
 How many symbols would you like?
