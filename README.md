@@ -1,4 +1,4 @@
-# password_generator
+# Password Generator
 This Python script generates a random password based on user input for the number of letters, symbols, and numbers to include. The generated password is then shuffled for added security.
 
 ## How to Use
@@ -32,4 +32,4 @@ How many numbers would you like?
 Generated password: gP$2oL3NwI7D
 ```
 
-** Feel free to customize the script according to your preferences or integrate it into your projects. Enjoy secure password generation! **
+### Feel free to customize the script according to your preferences or integrate it into your projects. Enjoy secure password generation!
