@@ -2,10 +2,33 @@
 This Python script generates a random password based on user input for the number of letters, symbols, and numbers to include. The generated password is then shuffled for added security.
 
 ## How to Use
-- Run the script in a Python environment.
-- You will be prompted to enter the desired number of letters, symbols, and numbers for your password.
-- The script will generate a random password based on your input and shuffle the characters for increased security.
-- The final password will be displayed on the console.
+
+1. Clone the Repository:
+
+```bash
+git clone https://github.com/your-username/password_generator.git
+```
+
+2. Navigate to the Project Directory:
+
+```bash
+cd password_generator
+```
+
+3. Run the Script:
+
+- Ensure you have Python installed on your machine.
+- Execute the following command:
+
+```bash
+python password_generator.py
+```
+
+- Follow the on-screen prompts to input the desired number of letters, symbols, and numbers for your password.
+
+4. Generated Password:
+
+The script will display the generated and shuffled password on the console.
 
 ## Components
 - **random**: Python module for generating random values.
