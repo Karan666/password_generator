@@ -28,7 +28,7 @@ python password_generator.py
 
 4. Generated Password:
 
-The script will display the generated and shuffled password on the console.
+- The script will display the generated and shuffled password on the console.
 
 ## Components
 - **random**: Python module for generating random values.
