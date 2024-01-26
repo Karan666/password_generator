@@ -6,7 +6,7 @@ This Python script generates a random password based on user input for the numbe
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/password_generator.git
+git clone https://github.com/Karan666/password_generator.git
 ```
 
 2. Navigate to the Project Directory:
